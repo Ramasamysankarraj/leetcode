@@ -26,8 +26,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Ramasamysankarraj/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Math
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/1486-xor-operation-in-an-array) |
+## Array
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 <!---LeetCode Topics End-->
