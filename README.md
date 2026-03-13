@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Ramasamysankarraj/leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ramasamysankarraj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/Ramasamysankarraj/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1544-make-the-string-great](https://github.com/Ramasamysankarraj/leetcode/tree/master/1544-make-the-string-great) |
 ## Recursion
@@ -32,11 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ramasamysankarraj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1486-xor-operation-in-an-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ramasamysankarraj/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Ramasamysankarraj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ramasamysankarraj/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
