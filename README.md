@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Ramasamysankarraj/leetcode/tree/master/0022-generate-parentheses) |
 | [1544-make-the-string-great](https://github.com/Ramasamysankarraj/leetcode/tree/master/1544-make-the-string-great) |
 ## Heap (Priority Queue)
 |  |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ramasamysankarraj/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Ramasamysankarraj/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
