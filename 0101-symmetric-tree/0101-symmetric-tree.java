@@ -27,6 +27,6 @@ class Solution {
         if(a==null || b==null || a.val!=b.val){
             return false;
         }
-        return mirror(a.left,b.right) && mirror(a.right,b.left);
+        return a.val==b.val && mirror(a.left,b.right) && mirror(a.right,b.left);
     }
 }
