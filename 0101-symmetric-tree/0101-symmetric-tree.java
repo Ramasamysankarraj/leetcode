@@ -18,7 +18,7 @@ class Solution {
         if(root ==null){
             return false;
         }
-        return mirror(root.left,root.right);
+        return mirror(root,root);
     }
     public boolean mirror(TreeNode a,TreeNode b){
         if(a==null && b==null){
