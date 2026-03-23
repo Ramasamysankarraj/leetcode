@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramasamysankarraj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ramasamysankarraj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ramasamysankarraj/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ramasamysankarraj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Prefix Sum
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ramasamysankarraj/leetcode/tree/master/0022-generate-parentheses) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
