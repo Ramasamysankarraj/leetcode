@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramasamysankarraj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/Ramasamysankarraj/leetcode/tree/master/0200-number-of-islands) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/2906-construct-product-matrix) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ramasamysankarraj/leetcode/tree/master/0200-number-of-islands) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ramasamysankarraj/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Ramasamysankarraj/leetcode/tree/master/0200-number-of-islands) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/2906-construct-product-matrix) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Ramasamysankarraj/leetcode/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Ramasamysankarraj/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ramasamysankarraj/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Ramasamysankarraj/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ramasamysankarraj/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Ramasamysankarraj/leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ramasamysankarraj/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Ramasamysankarraj/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Ramasamysankarraj/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
