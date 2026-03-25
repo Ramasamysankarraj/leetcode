@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ramasamysankarraj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ramasamysankarraj/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ramasamysankarraj/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Simulation
 |  |
@@ -131,12 +132,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ramasamysankarraj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ramasamysankarraj/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ramasamysankarraj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ramasamysankarraj/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Ramasamysankarraj/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Ramasamysankarraj/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ramasamysankarraj/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Ramasamysankarraj/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
