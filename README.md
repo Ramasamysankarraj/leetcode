@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1622-fancy-sequence](https://github.com/Ramasamysankarraj/leetcode/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Ramasamysankarraj/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ramasamysankarraj/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Array
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ramasamysankarraj/leetcode/tree/master/0994-rotting-oranges) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Ramasamysankarraj/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2906-construct-product-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ramasamysankarraj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ramasamysankarraj/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ramasamysankarraj/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramasamysankarraj/leetcode/tree/master/0210-course-schedule-ii) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Ramasamysankarraj/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ramasamysankarraj/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ramasamysankarraj/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0695-max-area-of-island](https://github.com/Ramasamysankarraj/leetcode/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramasamysankarraj/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Ramasamysankarraj/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Tree
 |  |
 | ------- |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ramasamysankarraj/leetcode/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramasamysankarraj/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ramasamysankarraj/leetcode/tree/master/0994-rotting-oranges) |
+| [2101-detonate-the-maximum-bombs](https://github.com/Ramasamysankarraj/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -236,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Ramasamysankarraj/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ramasamysankarraj/leetcode/tree/master/0210-course-schedule-ii) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/Ramasamysankarraj/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
