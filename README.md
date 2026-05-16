@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramasamysankarraj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramasamysankarraj/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/Ramasamysankarraj/leetcode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Ramasamysankarraj/leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Ramasamysankarraj/leetcode/tree/master/0695-max-area-of-island) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramasamysankarraj/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ramasamysankarraj/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ramasamysankarraj/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
