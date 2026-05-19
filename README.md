@@ -259,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ramasamysankarraj/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ramasamysankarraj/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
