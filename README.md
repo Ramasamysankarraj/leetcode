@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Ramasamysankarraj/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ramasamysankarraj/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ramasamysankarraj/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2540-minimum-common-value](https://github.com/Ramasamysankarraj/leetcode/tree/master/2540-minimum-common-value) |
 ## Stack
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ramasamysankarraj/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+| [2540-minimum-common-value](https://github.com/Ramasamysankarraj/leetcode/tree/master/2540-minimum-common-value) |
 | [2906-construct-product-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ramasamysankarraj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ramasamysankarraj/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramasamysankarraj/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2540-minimum-common-value](https://github.com/Ramasamysankarraj/leetcode/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ramasamysankarraj/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ramasamysankarraj/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ramasamysankarraj/leetcode/tree/master/0141-linked-list-cycle) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramasamysankarraj/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1345-jump-game-iv](https://github.com/Ramasamysankarraj/leetcode/tree/master/1345-jump-game-iv) |
+| [2540-minimum-common-value](https://github.com/Ramasamysankarraj/leetcode/tree/master/2540-minimum-common-value) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ramasamysankarraj/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sorting
 |  |
