@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/Ramasamysankarraj/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2540-minimum-common-value](https://github.com/Ramasamysankarraj/leetcode/tree/master/2540-minimum-common-value) |
 | [2906-construct-product-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/2906-construct-product-matrix) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ramasamysankarraj/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ramasamysankarraj/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ramasamysankarraj/leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ramasamysankarraj/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ramasamysankarraj/leetcode/tree/master/0022-generate-parentheses) |
 | [1544-make-the-string-great](https://github.com/Ramasamysankarraj/leetcode/tree/master/1544-make-the-string-great) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ramasamysankarraj/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramasamysankarraj/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1345-jump-game-iv](https://github.com/Ramasamysankarraj/leetcode/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/Ramasamysankarraj/leetcode/tree/master/2540-minimum-common-value) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ramasamysankarraj/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ramasamysankarraj/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sorting
 |  |
@@ -263,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ramasamysankarraj/leetcode/tree/master/0175-combine-two-tables) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ramasamysankarraj/leetcode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
