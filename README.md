@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/Ramasamysankarraj/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Ramasamysankarraj/leetcode/tree/master/1148-article-views-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Ramasamysankarraj/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Ramasamysankarraj/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Trie
 |  |
 | ------- |
