@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Ramasamysankarraj/leetcode/tree/master/0994-rotting-oranges) |
 | [1345-jump-game-iv](https://github.com/Ramasamysankarraj/leetcode/tree/master/1345-jump-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ramasamysankarraj/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2101-detonate-the-maximum-bombs](https://github.com/Ramasamysankarraj/leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2540-minimum-common-value](https://github.com/Ramasamysankarraj/leetcode/tree/master/2540-minimum-common-value) |
