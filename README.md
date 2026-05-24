@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ramasamysankarraj/leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Ramasamysankarraj/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Ramasamysankarraj/leetcode/tree/master/0994-rotting-oranges) |
+| [1340-jump-game-v](https://github.com/Ramasamysankarraj/leetcode/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Ramasamysankarraj/leetcode/tree/master/1345-jump-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ramasamysankarraj/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ramasamysankarraj/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1340-jump-game-v](https://github.com/Ramasamysankarraj/leetcode/tree/master/1340-jump-game-v) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ramasamysankarraj/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Matrix
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ramasamysankarraj/leetcode/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/Ramasamysankarraj/leetcode/tree/master/0322-coin-change) |
+| [1340-jump-game-v](https://github.com/Ramasamysankarraj/leetcode/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Backtracking
 |  |
