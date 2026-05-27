@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0054-spiral-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/0054-spiral-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ramasamysankarraj/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ramasamysankarraj/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/0054-spiral-matrix) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Ramasamysankarraj/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ramasamysankarraj/leetcode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Ramasamysankarraj/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ramasamysankarraj/leetcode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Ramasamysankarraj/leetcode/tree/master/0994-rotting-oranges) |
